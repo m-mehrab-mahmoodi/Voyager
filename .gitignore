@@ -1,0 +1,11 @@
+# Qt & CMake Build Directories
+build/
+*.user
+*.exe
+*.o
+*.obj
+CMakeCache.txt
+CMakeFiles/
+*.ninja
+.ninja_*
+.vscode/
